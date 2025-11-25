@@ -17,47 +17,47 @@ buttons:
   filter: "basic"
 - name: Language
   filter: "language"
-- name: Container
-  filter: "container"
+- name: Technical
+  filter: "technical"
 - name: Others
   filter: "others"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
+- name: OS & Server Administration
   logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
+  summary: "Expertise in installing, configuring, and maintaining core operating systems (Linux, Windows) and managing web servers (Apache/Nginx) for optimal performance and uptime."
+  categories: ["technical"]
+# url: "."
 
-- name: Go Development
+- name: Infrastructure as Code (IaC)
   logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
+  summary: "Proficient in defining, provisioning, and managing cloud resources (AWS, Azure, GCP) using tools like Terraform or CloudFormation."
+  categories: ["technical"]
+# url: "."
 
-- name: Cloud Computing
+- name: Markup & Development (HTML/CSS)
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
+  summary: "Knows fundamental HTML and CSS to directly diagnose and correct technical on-page errors (tags, headings) and communicate integration requirements to developers."
+  categories: ["language"]
 
-- name: Docker
+- name: CI/CD Pipelines
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  categories: ["container"]
+  summary: "Capable of designing, building, and maintaining automated Continuous Integration and Continuous Deployment pipelines using tools like Jenkins, GitLab CI, or GitHub Actions."
+  categories: ["technical"]
   url: "https://www.docker.com/"
 
-- name: Prometheus
+- name: DevSecOps
   logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
+  summary: "Integrates security practices (e.g., vulnerability scanning, secret management) directly into the CI/CD pipeline and the infrastructure lifecycle."
+  categories: ["others"]
   url: "https://prometheus.io/"
 
-- name: Linux
+- name: Python
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
+  summary: "Skilled in Python for creating automation scripts, developing internal tooling, managing APIs, and performing data analysis for system performance."
+  categories: ["language"]
 
 - name: Git
   logo: /images/sections/skills/git.png
