@@ -1,6 +1,6 @@
 # some information about you
 name: "Sumaia Shimu"
-nickname: "Bristy"
+nickname: "Sumaia Shimu"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
 image: "images/author/john.png"
@@ -14,8 +14,8 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am an SEO Specialist
   - I am an IT Specialist
+  - I am an SEO Specialist
   - I am passionate about servers and infrastructure
   - I contribute to open-source projects
-  - I enjoy working on fun and creative tech projects
+  - I enjoy working on fun, creative, and innovative tech projects
