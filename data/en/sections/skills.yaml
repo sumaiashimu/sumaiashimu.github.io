@@ -26,7 +26,7 @@ buttons:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: OS & Server Administration
-  logo: /images/sections/skills/kubernetes.png
+  image: /images/sections/skills/kubernetes.png
   summary: "Expertise in installing, configuring, and maintaining core operating systems (Linux, Windows) and managing web servers (Apache/Nginx) for optimal performance and uptime."
   categories: ["technical"]
 # url: "."

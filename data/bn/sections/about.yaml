@@ -49,7 +49,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "আমার জীবনবৃত্তান্ত"
-  url: "files/resume.pdf"
+  url: "files\resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
