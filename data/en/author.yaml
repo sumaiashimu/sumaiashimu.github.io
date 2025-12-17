@@ -7,10 +7,10 @@ image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "sumaiashimu38@gmail.com"
-  phone: "+8801521703838"
-  github: sumaiashimu
-  linkedin: sumaiashimu
-  researchgate: sumaiashimu
+  phone: "+8801770037932"
+  github: https://github.com/sumaiashimu
+  linkedin: linkedin.com/in/sumaia-shimu
+  researchgate: https://www.researchgate.net/profile/Sumaia-Shimu
 
 # some summary about what you do
 summary:

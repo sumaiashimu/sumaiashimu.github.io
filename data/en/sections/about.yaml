@@ -26,42 +26,42 @@ summary: 'I am the IT Specialist at Nagad, Distributor of Magura, responsible fo
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "sumaiashimu38@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/sumaiashimu"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "linkedin.com/in/sumaia-shimu"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+#- name: Twitter
+#  icon: "fab fa-twitter"
+#  url: "#"
 
 - name: Facebook
   icon: "fab fa-facebook"
   url: "#"
 
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
+#- name: Mastadon
+#  icon: "fab fa-mastodon"
+#  url: "#"
+ # rel: "me noopener"
 
 - name: ResearchGate
   icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+  url: "https://www.researchgate.net/profile/Sumaia-Shimu"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files\resume.pdf"
+  url: "files/resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -69,18 +69,18 @@ resourceLinks:
 badges:
 - type: certification
   name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  url: "https://www.linkedin.com/learning/paths/advance-your-skills-in-ai-and-machine-learning"
+  badge: "https://sumaiashimu.github.io/assets/images/certificate/AI.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  logo: C:\Users\CodeWare\sumaiashimu.github.io\assets\images\certificate\AI.png
+  name: Cyber Security Specialist 
+  url: "https://www.itcerts.ca/certification-programs/certified-cybersecurity-specialist/"
+  badge: "https://sumaiashimu.github.io/assets/images/certificate/CSS.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Data Center Engineering Specialist
+  url: "https://www.idc-a.org/data-center-training/data-center-engineering-specialist"
+  badge: "https://sumaiashimu.github.io/assets/images/certificate/DCES.png"
 
 - type: soft-skill-indicator
   name: Leadership

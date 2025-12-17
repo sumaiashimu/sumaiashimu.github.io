@@ -21,47 +21,46 @@ buttons:
 
 # your publications
 publications:
-- title: An Example Paper on Machine Learning
+- title: Medical Imaging a Transfer Learning Process with Multimodal CNN; Dermis-Disorder
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: Third International Conference on Image Processing and Capsule Networks
+    date: January 2022
+    url: https://www.researchgate.net/publication/362319141_Medical_Imaging_a_Transfer_Learning_Process_with_Multimodal_CNN_Dermis-Disorder
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Lingkon Chandra Debnath
+    url: https://www.researchgate.net/profile/Lingkon-Debnath
+  - name: Md. Mahadi Hasan Sany
+    url: https://www.researchgate.net/profile/Md-Mahadi-Sany
+  - name: Mumenunnessa Keya
+    url: researchgate.net/profile/Mumenunnessa-Keya?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19
+
   paper:
-    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
-    url: https://example.com
+    summary: Automated Skin Disease Classification using Transfer Learning Developed a deep learning framework to classify six types of skin diseases (including Melanoma and Eczema) to assist in early clinical diagnosis. By comparing several architectures, NASNetLarge was identified as the top performer with 90% accuracy, significantly reducing diagnostic complexity through automated image processing.
+    url: https://www.researchgate.net/publication/362319141_Medical_Imaging_a_Transfer_Learning_Process_with_Multimodal_CNN_Dermis-Disorder
   categories: ["machinelearning","image-processing"]
-  tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
+  tags: ["All", "Machine Learning", "Computer Vision"]
 
-- title: An Sample Paper on Image Processing
+- title: The Corporeality of Infotainment on Fans Feedback Towards Sports Comment Employing Convolutional Long-Short Term Neural Network
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: 2022 6th International Conference on Trends in Electronics and Informatics (ICOEI)
+    date: May 2022
+    url: https://www.researchgate.net/publication/360900977_The_Corporeality_of_Infotainment_on_Fans_Feedback_Towards_Sports_Comment_Employing_Convolutional_Long-Short_Term_Neural_Network
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Uchchhwas Saha
+    url: https://www.researchgate.net/profile/Uchchhwas-Saha
+  - name: Md. Shihab Mahmud
+    url: https://www.researchgate.net/profile/Md-Shihab-Mahmud-2
+  - name: Shabikun Naher Eva
+    url: https://www.researchgate.net/profile/Shabikun-Eva
+  - name: Sharun Akter Khushbu
+    url: https://www.researchgate.net/profile/Sharun-Khushbu
   paper:
-    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
-    url: https://example.com
-  categories: ["image-processing"]
-  tags: ["Image Processing", "Computer Vision"]
+    summary: Multimodal Sentiment Analysis of Bengali Sports Comments Developed a deep learning framework to analyze fan emotions across Football, Cricket, Hockey, and Badminton using a dataset of 3,759 Bengali social media comments. By utilizing GloVe word embeddings and a Hybrid CNN-LSTM architecture, the model categorizes sentiments into five classes; Positive, Negative, Neutral, Happy, and Sad. The hybrid approach outperformed standalone models, achieving a peak accuracy of 97.45%.
+    url: https://www.researchgate.net/publication/360900977_The_Corporeality_of_Infotainment_on_Fans_Feedback_Towards_Sports_Comment_Employing_Convolutional_Long-Short_Term_Neural_Network
+  categories: ["Machine Learning"]
+  tags: ["All", "Machine Learning"]
 
-- title: An Example Paper on Security
+#- title: An Example Paper on Security
   publishedIn:
     name: 2020 IEEE Region Symposium (TENSYMP)
     date: 7 June 2020

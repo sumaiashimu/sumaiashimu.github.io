@@ -11,36 +11,34 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Accelerated Oral Cancer Diagnosis via TLBO & Transfer Learning Jahangirnagar University (M.Sc Thesis)
+  timeline: "an 2023 - Dec 2024"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: Jahangirnagar University
+    url: https://juniv.edu/
+  courseOverview: This research focused on optimizing deep learning models using the Teaching-Learning-Based Optimization (TLBO) algorithm to improve the accuracy of oral cancer detection. It involved handling large medical datasets, fine-tuning neural networks, and implementing meta-heuristic algorithms to reduce diagnostic time while maintaining high precision.
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Dermis-Disorder; Multimodal CNN for Medical Imaging Daffodil International University (B.Sc Research)
+  timeline: "Jan 2021 - Jan 2022"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+    name: Daffodil International University
+    url: https://daffodilvarsity.edu.bd/
+  courseOverview: "Developed an automated framework for classifying various skin diseases using Transfer Learning. By evaluating multiple architectures, including NASNetLarge, I achieved a 90% accuracy rate. This project enhanced my skills in image preprocessing, model evaluation, and the practical application of Deep Learning in the healthcare sector."
 
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
+- name: Data Center Engineering Specialist (DCES)
+  timeline: "Dec 2024 - Jan 2025"
   organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+    name: IDCA (International Data Center Authority)
+    url: https://www.idc-a.org/data-center-training/data-center-engineering-specialist
+  courseOverview: This certification provides a deep understanding of data center infrastructure, focusing on the engineering and design of critical facilities. It covers key domains such as power systems, cooling and thermal management, physical security, and telecommunications infrastructure. Earning this credential demonstrates the technical expertise required to design and manage highly available, resilient, and standardized data center environments in compliance with international standards.
+#certificateURL: "https://www.idc-a.org/data-center-training/data-center-engineering-specialist"
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: Certified Cybersecurity Specialist (CCS)
+  timeline: "March 26, 2023"
   organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, multithreading topics.
-  certificateURL: "https://example.com"
+    name: ITCerts
+    url: https://www.itcerts.ca/certification-programs/certified-cybersecurity-specialist/
+  courseOverview: This certification covers the essential pillars of modern cybersecurity, including network security, risk management, and incident response. It provides practical knowledge on identifying vulnerabilities, implementing defensive strategies, and ensuring data integrity across complex infrastructures. This credential validates my ability to secure organizational assets and maintain a proactive defense posture against evolving cyber threats.
+#certificateURL: "https://www.itcerts.ca/certification-programs/certified-cybersecurity-specialist/"
  
 
