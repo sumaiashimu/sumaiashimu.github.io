@@ -39,21 +39,22 @@ experiences:
     - Security and Documentation Support.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
+    name: Technology & Fintech Intern – bNext
+    url: "https://www.bkash.com/"
+    location: Bir ShresthaShaheed Jahangir Gate, Dhaka 1206
+    logo: /images/sections/experiences/company3.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Completed a hands-on fintech internship at bNext, contributing to digital banking operations, product insights, and customer-focused innovation.
   positions:
   - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+    start: January 2024
+    end: Jun 2024
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Hands-on exposure to mobile banking products and fintech operations
+    - Improved skills in problem-solving, teamwork, and professional communication
+    - Practical knowledge of customer-centric product development
+    - Experience working in a fast-paced startup–bank hybrid environment
 
 - company:
     name: Daffodil International University

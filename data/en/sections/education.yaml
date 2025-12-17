@@ -10,40 +10,46 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
+- name: M.Sc in Computer Science & Engineering
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2023-2024
   institution:
-    name: ABC University of Technology
-    url: "#"
-    logo: /images/sections/education/tech_college.png
+    name: Jahangirnagar University
+    url: "https://juniv.edu/"
+    logo: /images/sections/education/jahangirnagar-university2.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
   grade: #(optional)
     scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
+    achieved: 3.75
+    outOf: 4.00
+  customSections: #(optional)
+    - name: Thesis
+      content: Accelerated Oral Cancer Diagnosis through TLBO Meta Heuristic Algorithm and Transfer Learning Methods
+    - name: Supervisor
+      content: Abu Sayed Md. Mostafizur Rahaman, PhD
+# publications: #(optional)
+#   - title: Lorem ipsum dolor sit amet...
+#     url: "#"
+#   - title: Fusce eu augue ut odio...
+#     url: "#"
+#   - title: Nullam vitae orci tincidunt...
+#     url: "#"
+   
 - name: B.Sc. in Computer Science & Engineering
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2019-2022
   institution:
-    name: University of XYZ
-    url: "#"
-    logo: /images/sections/education/university.jpg
+    name: Daffodil International University
+    url: "https://www.daffodilvarsity.edu.bd/"
+    logo: /images/sections/experiences/company2.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
   grade: #(optional)
     scale: CGPA
-    achieved: 3.5
-    outOf: 4
-  takenCourses: #(optional)
+    achieved: 3.83
+    outOf: 4.00
+#  takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
     collapseAfter: 3
@@ -61,44 +67,59 @@ degrees:
       achieved: 3.75
       outOf: 4
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
+  - title: Medical Imaging a Transfer Learning Process with Multi Modal CNN- Dermis-Disorder
+    url: "https://www.researchgate.net/publication/362319141_Medical_Imaging_a_Transfer_Learning_Process_with_Multimodal_CNN_Dermis-Disorder"
+  - title: The Corporeality of Infotainment on Fans Feedback Towards Sports Comment Employing Convolutional Long-Short Term Neural Network
+    url: "https://www.researchgate.net/publication/360900977_The_Corporeality_of_Infotainment_on_Fans_Feedback_Towards_Sports_Comment_Employing_Convolutional_Long-Short_Term_Neural_Network"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-  customSections: #(optional)
-    - name: Thesis
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - name: Supervisor
-      content: Fusce eu augue ut odio porttitor pulvinar.
-- name: Higher Secondary School Certificate
+  - Participated in various inter-university programming contests and local hackathons.
+  - Active member of the DIU Computer Programming Club (CPC), engaging in weekly coding sessions.
+  - Developed and maintained a few side projects on GitHub to practice new frameworks like React and Node.js.
+  - Regularly solved problems on platforms like Beecrowd and LeetCode to improve logic and problem-solving skills.
+  - Volunteered as a technical coordinator for university department fests and workshops.
+  
+#customSections: #(optional)
+#- name: Thesis
+#      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#    - name: Supervisor
+#      content: Fusce eu augue ut odio porttitor pulvinar.
+
+- name: Higher Secondary Certificate (HSC)
   icon: fa-university
-  timeframe: 2010-2012
+  timeframe: 2016-2018
   institution:
-    name: MST College of Science
-    url: "#"
-    logo: /images/sections/education/science_college.png
+    name: Government HSS College, Magura
+    url: "https://govthsscollegemagura.jessoreboard.gov.bd/"
+    logo: /images/sections/education/ghsscm.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/science_college.png
   grade: #(optional)
     scale: GPA
-    achieved: 5
-    outOf: 5
+    achieved: 4.00
+    outOf: 5.00
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
+  - Active member of the College Science Club, assisting in the organization of annual science festivals.
+  - Competed in inter-college Math and Physics Olympiads to strengthen analytical and logical thinking.
+  - Managed social media and event coordination for the college cultural club as a volunteer.
+  - Attended workshops on basic computer hardware and software troubleshooting during college years.
+  - Practiced foundational logic building by learning basic C programming outside of the academic syllabus.
+
+- name: Secondary School Certificate (SSC)
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 2006-2016
   institution:
-    name: JK School of Science
+    name: Magura Government Girls High School
+    url: "https://maguragovthighschool.jessoreboard.gov.bd/"
+    logo: /images/sections/education/mgghs.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/science_college.png
   grade: #(optional)
     scale: GPA
-    achieved: 4.5
-    outOf: 5
+    achieved: 5.00
+    outOf: 5.00
+  extracurricularActivities: #(optional)
+  - Participated in school-level Science Fairs with a project focused on basic electronics and renewable energy.
+  - Active member of the School Debating Club, improving public speaking and logical reasoning skills.
+  - Competed in inter-school Math Olympiads and General Knowledge competitions.
+  - Actively participated in annual sports meets, winning prizes in Carrom and Chess.
+  - Volunteered in the school library committee to help organize and manage the book collection.
