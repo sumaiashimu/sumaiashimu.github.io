@@ -1,0 +1,11 @@
+/* Increase the hero profile image size */
+.hero-area .author-image {
+    width: 280px !important;  /* Adjust this value to your preference */
+    height: 280px !important;
+    
+    img {
+        width: 100% !important;
+        height: 100% !important;
+        border-width: 8px !important; /* Makes the border proportional to the new size */
+    }
+}
