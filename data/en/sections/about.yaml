@@ -38,24 +38,19 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "linkedin.com/in/sumaia-shimu"
-
-#- name: Twitter
-#  icon: "fab fa-twitter"
-#  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
-
-#- name: Mastadon
-#  icon: "fab fa-mastodon"
-#  url: "#"
- # rel: "me noopener"
+  url: "https://www.linkedin.com/in/sumaia-shimu"
 
 - name: ResearchGate
   icon: "fab fa-researchgate"
   url: "https://www.researchgate.net/profile/Sumaia-Shimu"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/sumaiaa.bristy"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/bristysumu"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.

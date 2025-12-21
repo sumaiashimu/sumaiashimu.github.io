@@ -5,10 +5,9 @@ section:
   enable: true
   weight: 6
   showOnNavbar: true
-  # Can optionally hide the title in sections
-  # hideTitle: true
 
 # filter buttons
+# Note: These "filter" values must match the "categories" in your publications exactly
 buttons:
 - name: All
   filter: "all"
@@ -32,12 +31,11 @@ publications:
   - name: Md. Mahadi Hasan Sany
     url: https://www.researchgate.net/profile/Md-Mahadi-Sany
   - name: Mumenunnessa Keya
-    url: researchgate.net/profile/Mumenunnessa-Keya?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19
-
+    url: https://www.researchgate.net/profile/Mumenunnessa-Keya
   paper:
-    summary: Automated Skin Disease Classification using Transfer Learning Developed a deep learning framework to classify six types of skin diseases (including Melanoma and Eczema) to assist in early clinical diagnosis. By comparing several architectures, NASNetLarge was identified as the top performer with 90% accuracy, significantly reducing diagnostic complexity through automated image processing.
+    summary: Automated Skin Disease Classification using Transfer Learning Developed a deep learning framework to classify six types of skin diseases. NASNetLarge was identified as the top performer with 90% accuracy.
     url: https://www.researchgate.net/publication/362319141_Medical_Imaging_a_Transfer_Learning_Process_with_Multimodal_CNN_Dermis-Disorder
-  categories: ["machinelearning","image-processing"]
+  categories: ["machinelearning", "image-processing"]
   tags: ["All", "Machine Learning", "Computer Vision"]
 
 - title: The Corporeality of Infotainment on Fans Feedback Towards Sports Comment Employing Convolutional Long-Short Term Neural Network
@@ -55,27 +53,7 @@ publications:
   - name: Sharun Akter Khushbu
     url: https://www.researchgate.net/profile/Sharun-Khushbu
   paper:
-    summary: Multimodal Sentiment Analysis of Bengali Sports Comments Developed a deep learning framework to analyze fan emotions across Football, Cricket, Hockey, and Badminton using a dataset of 3,759 Bengali social media comments. By utilizing GloVe word embeddings and a Hybrid CNN-LSTM architecture, the model categorizes sentiments into five classes; Positive, Negative, Neutral, Happy, and Sad. The hybrid approach outperformed standalone models, achieving a peak accuracy of 97.45%.
+    summary: Multimodal Sentiment Analysis of Bengali Sports Comments using a dataset of 3,759 Bengali social media comments. The hybrid approach achieved a peak accuracy of 97.45%.
     url: https://www.researchgate.net/publication/360900977_The_Corporeality_of_Infotainment_on_Fans_Feedback_Towards_Sports_Comment_Employing_Convolutional_Long-Short_Term_Neural_Network
-  categories: ["Machine Learning"]
+  categories: ["machinelearning"]
   tags: ["All", "Machine Learning"]
-
-#- title: An Example Paper on Security
-  publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
-  authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
-  paper:
-    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
-    url: https://example.com
-  categories: ["security"]
-  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
