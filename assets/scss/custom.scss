@@ -1,11 +1,13 @@
-/* Increase the hero profile image size */
-.hero-area .author-image {
-    width: 280px !important;  /* Adjust this value to your preference */
+ /* Target the hero image specifically to override the 148px limit */
+.home .hero-area .author-image img {
+    width: 280px !important;  /* Increased from 148px */
+    height: 280px !important; /* Increased from 148px */
+    padding: 5px !important;
+    margin-bottom: 20px !important;
+}
+
+/* Ensure the container scales with the image */
+.home .hero-area .author-image {
+    width: 280px !important;
     height: 280px !important;
-    
-    img {
-        width: 100% !important;
-        height: 100% !important;
-        border-width: 8px !important; /* Makes the border proportional to the new size */
-    }
 }
