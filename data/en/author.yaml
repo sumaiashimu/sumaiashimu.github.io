@@ -3,7 +3,7 @@ name: "Sumaia Shimu"
 nickname: "Sumaia Shimu"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/SumaiaShimu.jpg"
+image: "images/author/SumaiaShimu.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "sumaiashimu38@gmail.com"

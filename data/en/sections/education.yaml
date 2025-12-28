@@ -10,6 +10,25 @@ section:
   # hideTitle: true
 
 degrees:
+- name: M.Sc in INFORMATION TECHNOLOGY
+  icon: fa-graduation-cap
+  timeframe: 2026-2027 (Running)
+  institution:
+    name: Segi University
+    url: "https://www.segi.edu.my/"
+    logo: /images/sections/education/Segi-uni.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/tech_college.png
+  grade: #(optional)
+    scale: CGPA
+    achieved: 4.00
+    outOf: 4.00
+#  customSections: #(optional)
+#    - name: Thesis
+#      content: Accelerated Oral Cancer Diagnosis through TLBO Meta Heuristic Algorithm and Transfer Learning Methods
+#    - name: Supervisor
+#      content: Abu Sayed Md. Mostafizur Rahaman, PhD
+
 - name: M.Sc in Computer Science & Engineering
   icon: fa-microscope
   timeframe: 2023-2024
